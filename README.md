@@ -1,0 +1,2 @@
+# xenophobic-tweets
+Problem Description Xenophobia has been a social behavior present in people since the beginning of humanity. Fear and rejection of the different have led many people to distrust, belittle, and even hate other people who belong to a different social environment. This xenophobic behavior is so strong that it has managed to join the internet through social networks. Hence, in this course, you should create a classifier able for detecting Xenophobic Tweets using only the text of some tweets.
